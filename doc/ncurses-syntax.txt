@@ -1,10 +1,9 @@
-NCURSES SYNTAX FILE FOR VIM
----------------------------
-This is a syntax file that enhances the c.vim file that is distributed with the vim text editor. The purpose is to highlight ncurses keywords, which is useful to avoid typos, and it makes your source code look pretty too.
+*ncurses-syntax.txt* 	For Vim version 7.3 	Last change: 2015 February 11
 
-To install, simply un-tar it into your ~/.vim directory and that's all there is to it.
+NCURSES SYNTAX FILE FOR VIM by Frank Cox <theatre@melvilletheatre.com>~
 
-If you use the pathogen plugin, un-tar this syntax plugin into your ~/.vim/bundle directory.
+This is a syntax file that enhances the c.vim file that is distributed with
+the Vim text editor. The purpose is to highlight ncurses keywords, which is 
+useful to avoid typos, and it makes your source code look pretty too.
 
-Initial version: February 11, 2015
-by Frank Cox <theatre@melvilletheatre.com>
+ vim:tw=78:ts=8:ft=help:noet:norl:
